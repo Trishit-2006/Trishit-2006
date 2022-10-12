@@ -1,0 +1,18 @@
+===========================================================================================================
+						WELCOME TO GTECH
+
+GTECH is a software that is made for performing different operations in the computer. The softwares provided by us is completely made of java, so you must have any version of java for proper funtioning of the software, it will good if you use the latest java version in your computer. Our software will never provide any virus containing program to harm your computer. Our software does not takes any kind of personal information from the user for downloading or starting the programs.
+
+Note :-
+
+As we have already said that all of our programs are made of java, all the programs you are going to download will be contained in a zip file, the programs will be in .jar format you need the run the jar code in terminal with the following code:
+
+					|=============================|
+					|java -jar CREATE_WEB_PAGE.jar|
+					|=============================|
+
+
+Thanks for visiting our software.
+===========================================================================================================
+
+					---x---x---x---x---x---
